@@ -1,3 +1,3 @@
 # Binary calculator
 
-[Demo version]()
+[Demo version](https://binary-calculator-milan44.netlify.app/)
